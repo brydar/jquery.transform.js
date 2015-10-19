@@ -1,5 +1,5 @@
 {
-    "name": "transform",
+    "name": "jquery.transform3d",
     "version": "1.0",
     "title": "Add a transform property to $.fn.css() and $.fn.animate()",
     "author": {
